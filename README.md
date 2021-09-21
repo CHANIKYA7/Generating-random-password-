@@ -1,7 +1,7 @@
 # Generating-random-password
 Generating random password  using random module
 
-## importing random module
+### importing random module
 import random
 ## giving length of password from the user
 length_password = int(input("Enter the length of the password :"))
